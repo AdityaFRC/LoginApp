@@ -1,0 +1,1 @@
+This is used to demonstrate a react-redux app and an application.
